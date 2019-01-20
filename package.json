@@ -2,7 +2,7 @@
   "name": "reactapp",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Epiphamatic/Clicky",
+  "homepage": "https://epiphamatic.github.io/Clicky/",
   "dependencies": {
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
